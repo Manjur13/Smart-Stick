@@ -6,6 +6,8 @@ An AI- and IoT-powered Smart Stick designed to assist visually impaired individu
 
 Visually impaired users often face difficulty navigating their environment. This Smart Stick addresses that by combining sensors and real-time AI-based object and text detection to provide auditory and haptic feedback. The system also includes a mobile application for navigation using Google Maps API and voice guidance.
 
+![Smart Stick Image](https://github.com/Manjur13/Smart-Stick/blob/main/smartstickimage.jpg)
+
 ## 🎯 Project Aim
 
 To design and develop a Smart Stick that enhances the mobility and safety of visually impaired individuals by:
